@@ -147,12 +147,14 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:padding="15dp"
             android:layout_marginEnd="16dp"
             android:id="@+id/spinnerCategory"/>
         <ImageView
             android:id="@+id/imgAddCategory"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_gravity="center"
             android:src="@drawable/ic_playlist_add"
             app:tint="@color/black"
             />
