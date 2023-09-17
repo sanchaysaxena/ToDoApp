@@ -101,6 +101,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/dateEdt"
             android:hint="Set Date"
+            android:text=""
             android:clickable="true"
             android:focusable="false"
             android:cursorVisible="false"
